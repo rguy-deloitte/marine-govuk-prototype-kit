@@ -1,3 +1,25 @@
+# Project Marine Notes
+> **_IMPORTANT!_**  No identifiable / personal data to be used on these prototypes.
+
+## To run locally
+```
+npm install
+npm start
+```
+[Documentation](https://govuk-prototype-kit.herokuapp.com/docs)
+
+## Pushing changes to the main branch will trigger a deployment
+URL: https://opal-marine.herokuapp.com/
+password: `marine`
+
+## Working with this repo
+The repo is available [here](https://github.com/rguy-deloitte/marine-govuk-prototype-kit)
+
+- There are no rules on the main branch so no need for PR's
+- However feel free to branch/PR as you wish. [GitHub Getting Started](https://www.w3schools.com/git/git_remote_getstarted.asp?remote=github)
+- You may need a PAT to push changes: [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
+
 # GOV.UK Prototype Kit
 
 Go to the [GOV.UK Prototype Kit site](https://govuk-prototype-kit.herokuapp.com/docs) to download the latest version and read the documentation.
